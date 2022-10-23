@@ -1,0 +1,8 @@
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\bin\Debug\Locking.exe.config
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\bin\Debug\Locking.exe
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\bin\Debug\Locking.pdb
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\obj\Debug\Locking.csproj.AssemblyReference.cache
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\obj\Debug\Locking.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\obj\Debug\Locking.csproj.CoreCompileInputs.cache
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\obj\Debug\Locking.exe
+D:\Downloads\MultitaskingLab\MultitaskingLab\Starter\Locking\obj\Debug\Locking.pdb
